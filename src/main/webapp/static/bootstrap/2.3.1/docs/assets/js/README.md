@@ -1,6 +1,6 @@
 # 全目录
 
-[更多系统、论文，供君选择 ~~>](https://www.bitwise.net.cn)
+[更多系统、论文，供君选择 ~~>](https://www.yuque.com/wisebit/blog)
 # 2.0 BOOTSTRAP JS PHILOSOPHY
 These are the high-level design rules which guide the development of Bootstrap's plugin apis.
 
